@@ -27,6 +27,14 @@
 - Affiliation: MLVTEC, RTU
 - GitHub: [Jatin](https://github.com/oyejateen)
 
+#### Name: [Bhavesh Khatri](https://github.com/bhaveshkhatri81)
+
+- Place: Rajasthan India
+- Bio: B-Tech CSE Student
+- Affiliation : GGV, Bilaspur CG
+- GitHub: [Bhavesh Khatri](https://github.com/bhaveshkhatri81/)
+
+
 #### Name: [Rishika Suhag](https://github.com/rishikasuhag)
 
 - Place: New Delhi,India
@@ -132,3 +140,6 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+- 
+
+
